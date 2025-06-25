@@ -80,6 +80,14 @@ npm start
 
 All contributors will be recognized in our README! We appreciate every contribution, no matter how small.
 
+## ☕ Support the Project
+
+If you find this project valuable and want to support its development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Development-orange?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/zavdielx)
+
+Your support helps maintain and improve this MCP server for the entire community!
+
 ---
 
 By contributing, you agree that your contributions will be licensed under the MIT License.

@@ -4,6 +4,7 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io/)
 [![GitHub stars](https://img.shields.io/github/stars/Zavdielx89/slack-notification-mcp)](https://github.com/Zavdielx89/slack-notification-mcp/stargazers)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Development-orange?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/zavdielx)
 
 > **Transform your Claude AI workflows with instant Slack notifications!** 
 
@@ -235,6 +236,18 @@ Contributions are welcome! Feel free to:
 - 🔀 Submit pull requests for improvements
 - ⭐ Star the repository if you find it useful
 - 📢 Share it with others who might benefit
+
+## ☕ Support This Project
+
+If this MCP server saves you time or enhances your Claude AI workflows, consider supporting its development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Development-orange?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://buymeacoffee.com/zavdielx)
+
+Your support helps me:
+- 🚀 Add new features and improvements
+- 🐛 Fix bugs and provide support
+- 📚 Create better documentation
+- 🎯 Build more useful MCP servers for the community
 
 ## 🔗 Related Projects
 
