@@ -1,0 +1,27 @@
+{
+  "name": "slack-notification-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for sending notifications to Slack channels",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "setup": "node setup.js"
+  },
+  "keywords": [
+    "mcp",
+    "slack",
+    "notifications",
+    "webhook"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "zod": "^3.22.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

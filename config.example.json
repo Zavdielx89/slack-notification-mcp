@@ -1,0 +1,16 @@
+{
+  "channels": {
+    "general": {
+      "name": "General",
+      "webhook_url": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"
+    },
+    "notifications": {
+      "name": "Notifications",
+      "webhook_url": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"
+    },
+    "alerts": {
+      "name": "Alerts",
+      "webhook_url": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"
+    }
+  }
+}
