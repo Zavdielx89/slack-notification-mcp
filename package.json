@@ -1,7 +1,7 @@
 {
   "name": "slack-notification-mcp",
   "version": "1.0.0",
-  "description": "MCP server for sending notifications to Slack channels",
+  "description": "🚀 Model Context Protocol (MCP) server that enables Claude AI to send rich notifications to Slack channels via webhooks. Perfect for task completion alerts, error notifications, and workflow automation.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,12 +11,36 @@
   },
   "keywords": [
     "mcp",
+    "model-context-protocol",
+    "claude",
+    "claude-ai",
+    "anthropic",
     "slack",
+    "slack-notifications",
+    "slack-webhook",
     "notifications",
-    "webhook"
+    "webhook",
+    "automation",
+    "ai-tools",
+    "nodejs",
+    "workflow",
+    "alerts",
+    "messaging",
+    "integration",
+    "productivity",
+    "chatbot",
+    "ai-assistant"
   ],
-  "author": "",
+  "author": "Zavdielx89",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zavdielx89/slack-notification-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zavdielx89/slack-notification-mcp/issues"
+  },
+  "homepage": "https://github.com/Zavdielx89/slack-notification-mcp#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^0.4.0",
     "zod": "^3.22.4"
