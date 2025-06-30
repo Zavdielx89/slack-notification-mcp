@@ -5,6 +5,7 @@
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io/)
 [![GitHub stars](https://img.shields.io/github/stars/Zavdielx89/slack-notification-mcp)](https://github.com/Zavdielx89/slack-notification-mcp/stargazers)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Development-orange?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/zavdielx)
+[![smithery badge](https://smithery.ai/badge/@Zavdielx89/slack-notification-mcp)](https://smithery.ai/server/@Zavdielx89/slack-notification-mcp)
 
 > **Transform your Claude AI workflows with instant Slack notifications!** 
 
@@ -50,6 +51,14 @@ cp config.example.json config.json
 
 # 3. Add to your Claude Desktop config
 # See detailed setup instructions below
+```
+
+### Installing via Smithery
+
+To install Slack Notification Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Zavdielx89/slack-notification-mcp):
+
+```bash
+npx -y @smithery/cli install @Zavdielx89/slack-notification-mcp --client claude
 ```
 
 ## 📋 Setup

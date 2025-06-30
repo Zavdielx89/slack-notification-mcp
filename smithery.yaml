@@ -1,0 +1,25 @@
+# Smithery configuration file: https://smithery.ai/docs/build/project-config
+
+startCommand:
+  type: stdio
+  commandFunction:
+    # A JS function that produces the CLI command based on the given config to start the MCP on stdio.
+    |-
+    (config) => ({ command: 'node', args: ['entrypoint.js'], env: { MCP_CONFIG: JSON.stringify({ channels: config.channels }) } })
+  configSchema:
+    # JSON Schema defining the configuration options for the MCP.
+    type: object
+    required:
+      - channels
+    properties:
+      channels:
+        type: object
+        description: Mapping of channel IDs to their names and Slack webhook URLs
+  exampleConfig:
+    channels:
+      general:
+        name: General
+        webhookUrl: https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
+      alerts:
+        name: Alerts
+        webhookUrl: https://hooks.slack.com/services/T11111111/B11111111/YYYYYYYYYYYYYYYYYYYYYYYY
